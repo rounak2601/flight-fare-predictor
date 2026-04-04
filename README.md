@@ -130,7 +130,6 @@ The model was trained after preprocessing the raw CSV — parsing date/time fiel
 
 ## 📸 Screenshots
 
-> Add your screenshots to the `assets/` folder and they will appear here.
 
 | App Interface | Fare Result |
 |---|---|
