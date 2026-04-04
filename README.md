@@ -56,7 +56,7 @@ Flight_project/
 │   └── preprocess.py       # Feature engineering and input transformation
 │
 └── assets/
-    └── screenshot.png      # App screenshot for README
+    └── screenshot.png      # App Screenshot
 ```
 
 ---
@@ -66,7 +66,7 @@ Flight_project/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/flight-fare-predictor.git
+git clone https://github.com/rounak2601/flight-fare-predictor.git
 cd flight-fare-predictor
 ```
 
@@ -134,7 +134,7 @@ The model was trained after preprocessing the raw CSV — parsing date/time fiel
 
 | App Interface | Fare Result |
 |---|---|
-| ![Input Form](assets/screenshot.png) | ![Prediction Result](assets/result.png) |
+| ![Input Form](assets/input.png) | ![Prediction Result](assets/result.png) |
 
 ---
 
