@@ -2,6 +2,9 @@
 
 > A smart, ML-powered web app that estimates Indian domestic flight fares in real time using a trained Random Forest model.
 
+## 🌐 Live Demo
+👉 [Try the app here](https://skyfare-predictor-rt.streamlit.app)
+
 ![SkyFare Banner](assets/screenshot.png)
 
 ---
