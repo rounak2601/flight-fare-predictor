@@ -2,14 +2,14 @@
 
 > A smart, ML-powered web app that estimates Indian domestic flight fares in real time using a trained Random Forest model.
 
-## 🌐 Live Demo
+## Live Demo
 👉 [Try the app here](https://skyfare-predictor-rt.streamlit.app)
 
 ![SkyFare Banner](assets/screenshot.png)
 
 ---
 
-## 📌 About the Project
+## About the Project
 
 **SkyFare** is a machine learning-based flight fare prediction system built for Indian domestic routes. Users can enter flight details such as airline, source, destination, number of stops, journey date, and departure/arrival times — and the app instantly predicts the estimated fare in INR.
 
@@ -17,19 +17,19 @@ This project was built to explore end-to-end ML deployment using Streamlit, maki
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔮 **Real-time fare prediction** using a trained Random Forest Regressor
-- 🗓️ Accepts **journey date, departure & arrival time** as inputs
-- 🛫 Supports **6 major Indian airlines** including IndiGo, Air India, SpiceJet, Vistara, GoAir, and Jet Airways
-- 🗺️ Covers **popular Indian routes** (Delhi, Mumbai, Chennai, Kolkata → Cochin, Hyderabad, etc.)
-- 🕒 **Auto-calculates flight duration** from departure and arrival times
-- 🎨 Clean dark-themed UI with a dynamic **fare indicator** (Budget / Moderate / Expensive)
-- ⚡ Fast and lightweight — runs locally with a single command
+-  **Real-time fare prediction** using a trained Random Forest Regressor
+-  Accepts **journey date, departure & arrival time** as inputs
+-  Supports **6 major Indian airlines** including IndiGo, Air India, SpiceJet, Vistara, GoAir, and Jet Airways
+-  Covers **popular Indian routes** (Delhi, Mumbai, Chennai, Kolkata → Cochin, Hyderabad, etc.)
+-  **Auto-calculates flight duration** from departure and arrival times
+-  Clean dark-themed UI with a dynamic **fare indicator** (Budget / Moderate / Expensive)
+-  Fast and lightweight — runs locally with a single command
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Tool |
 |---|---|
@@ -41,7 +41,7 @@ This project was built to explore end-to-end ML deployment using Streamlit, maki
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 Flight_project/
@@ -64,7 +64,7 @@ Flight_project/
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 ### 1. Clone the repository
 
@@ -101,7 +101,7 @@ The app will open in your browser at `http://localhost:8501` 🎉
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **File:** `flightdata.csv`
 - **Source:** [Kaggle — Flight Price Prediction Dataset](https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh)
@@ -117,7 +117,7 @@ The app will open in your browser at `http://localhost:8501` 🎉
 
 ---
 
-## 🤖 Model Information
+## Model Information
 
 | Property | Detail |
 |---|---|
@@ -131,7 +131,7 @@ The model was trained after preprocessing the raw CSV — parsing date/time fiel
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 
 | App Interface | Fare Result |
@@ -140,7 +140,7 @@ The model was trained after preprocessing the raw CSV — parsing date/time fiel
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 Install all dependencies with:
 
@@ -159,7 +159,7 @@ numpy
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome!
 
@@ -171,7 +171,7 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**.
 
@@ -197,7 +197,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Rounak Kumar Tilante**
 - GitHub: [@rounak2601](https://github.com/rounak2601)
